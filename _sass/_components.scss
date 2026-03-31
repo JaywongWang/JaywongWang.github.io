@@ -68,6 +68,47 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+
+  .profile-social {
+    text-align: center;
+    margin-top: 10px;
+
+    .contact-icons {
+      font-size: 2rem;
+
+      a {
+        margin: 0 0.25rem;
+
+        img {
+          width: 1.8rem;
+          height: 1.8rem;
+        }
+
+        svg {
+          width: 2rem;
+          height: 2rem;
+
+          image {
+            width: 2rem;
+            height: 2rem;
+          }
+        }
+
+        i::before {
+          color: var(--global-text-color);
+          transition: all 0.2s ease-in-out;
+        }
+
+        &:hover {
+          text-decoration: none;
+
+          i::before {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+    }
+  }
 }
 
 .profile.float-right {
