@@ -14,10 +14,24 @@ layout: default
     <p class="desc">
       {{ page.subtitle }}
       {% if page.social %}
-        <span class="subtitle-social">{% social_links %}</span>
+        <span class="subtitle-social">
+          {% social_links %}
+          {% if site.data.socials.wechat_qr_path %}
+            <a href="javascript:void(0)" class="wechat-icon" title="WeChat" onclick="document.getElementById('wechat-modal').style.display='block'">
+              <i class="fab fa-weixin"></i>
+            </a>
+          {% endif %}
+        </span>
       {% endif %}
     </p>
   </header>
+
+  <!-- WeChat QR Code Modal -->
+  {% if site.data.socials.wechat_qr_path %}
+    <div id="wechat-modal" class="wechat-modal" onclick="this.style.display='none'">
+      <img src="{{ site.data.socials.wechat_qr_path | relative_url }}" alt="WeChat QR Code">
+    </div>
+  {% endif %}
 
   <article>
     {% if page.profile %}

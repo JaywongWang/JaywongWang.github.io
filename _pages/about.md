@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Algorithm Engineer, [Tencent Cloud](https://cloud.tencent.com/product/mps)
+subtitle: Senior Algorithm Engineer, Tencent Cloud
 
 profile:
   align: right
