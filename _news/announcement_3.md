@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Bigo as a staff algorithm engineer. I focus on media understanding and recommendation.
+I joined **Bigo** as a staff algorithm engineer. I focus on media understanding and recommendation.

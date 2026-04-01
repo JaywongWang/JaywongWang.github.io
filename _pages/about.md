@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Algorithm Engineer, Tencent Cloud
+subtitle: Senior Algorithm Engineer, [Tencent Cloud](https://cloud.tencent.com/product/mps)
 
 profile:
   align: right
@@ -26,4 +26,4 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am currently a senior algorithm engineer at [Tencent Cloud](https://cloud.tencent.com/product/mps), working on real-world video super-resolution, including livestreaming scenario and offline video scenario. Our developed media processing services have been widely recognized and applied to many well-known enterprises and products, including but not limited to Douyin(抖音直播), Shipinhao(视频号), Xiaohongshu(小红书), Haiyi(海艺). I was previously a senior algorithm engineer at [Huya Inc.](https://ir.huya.com/index.php) (2021 ~ 2025) and a senior research at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/) (2018 ~ 2021). In 2018, I received my Ph.D. degree from the Department of Computer Science and Technology, South China University of Technology, Guangzhou, China. Before that I was a research intern in Microsoft Research Asia during 2015 and 2017, and in Tencent AI Lab during 2017 and 2018.
+I am currently a senior algorithm engineer at [Tencent Cloud](https://cloud.tencent.com/product/mps), working on real-world video super-resolution, in both livestreaming and offline video scenarios. Our developed media processing services have been widely recognized and applied to many well-known enterprises and products, including but not limited to Douyin(抖音直播), Shipinhao(视频号), Xiaohongshu(小红书), Haiyi(海艺). I was previously a senior algorithm engineer at [Huya Inc.](https://ir.huya.com/index.php) (2021 ~ 2025) and a senior research at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/) (2018 ~ 2021). In 2018, I received my Ph.D. degree from the Department of Computer Science and Technology, South China University of Technology, Guangzhou, China. Before that I was a research intern in Microsoft Research Asia during 2015 and 2017, and in Tencent AI Lab during 2017 and 2018.

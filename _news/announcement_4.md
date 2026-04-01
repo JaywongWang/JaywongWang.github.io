@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Tencent AI Lab as a senior researcher. My research interest includes vision-and-language, action analysis.
+I joined **Tencent AI Lab** as a senior researcher. My research interest includes vision-and-language, action analysis.
