@@ -16,7 +16,7 @@ layout: default
       {% if page.social %}
         <span class="subtitle-social">
           {% social_links %}
-          {% if site.data.socials.wechat_qr_path %}
+          {% if site.wechat_qr_path %}
             <a
               href="javascript:void(0)"
               class="wechat-icon"
@@ -32,9 +32,9 @@ layout: default
   </header>
 
   <!-- WeChat QR Code Modal -->
-  {% if site.data.socials.wechat_qr_path %}
+  {% if site.wechat_qr_path %}
     <div id="wechat-modal" class="wechat-modal" onclick="this.style.display='none'">
-      <img src="{{ site.data.socials.wechat_qr_path | relative_url }}" alt="WeChat QR Code">
+      <img src="{{ site.wechat_qr_path | relative_url }}" alt="WeChat QR Code">
     </div>
   {% endif %}
 
