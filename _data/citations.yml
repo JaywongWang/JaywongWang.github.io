@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-27'
 papers:
   tvZgJYgAAAAJ:0EnyYjriUFMC:
     citations: 60
@@ -14,7 +14,7 @@ papers:
     title: Controllable video captioning with pos sequence guidance based on gated fusion network
     year: '2019'
   tvZgJYgAAAAJ:KlAtU1dfN6UC:
-    citations: 12
+    citations: 13
     title: 'MARN: multi-level attentional reconstruction networks for weakly supervised video temporal grounding'
     year: '2023'
   tvZgJYgAAAAJ:Se3iqnhoufwC:
@@ -22,7 +22,7 @@ papers:
     title: Controllable Video Captioning with an Exemplar Sentence
     year: '2020'
   tvZgJYgAAAAJ:UebtZRa9Y70C:
-    citations: 402
+    citations: 405
     title: 'Advancing image understanding in poor visibility environments: A collective benchmark study'
     year: '2020'
   tvZgJYgAAAAJ:YsMSGLbcyi4C:
@@ -58,6 +58,6 @@ papers:
     title: 'Beyond object recognition: Visual sentiment analysis with deep coupled adjective and noun neural networks.'
     year: '2016'
   tvZgJYgAAAAJ:u5HHmVD_uO8C:
-    citations: 298
+    citations: 299
     title: Bidirectional attentive fusion with context gating for dense video captioning
     year: '2018'
