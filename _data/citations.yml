@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-13'
 papers:
   tvZgJYgAAAAJ:0EnyYjriUFMC:
     citations: 60
     title: 'Beyond monocular deraining: Stereo image deraining via semantic understanding'
     year: '2020'
   tvZgJYgAAAAJ:2osOgNQ5qMEC:
-    citations: 232
+    citations: 233
     title: Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction
     year: '2019'
   tvZgJYgAAAAJ:9yKSN-GCB0IC:
-    citations: 248
+    citations: 249
     title: Controllable video captioning with pos sequence guidance based on gated fusion network
     year: '2019'
   tvZgJYgAAAAJ:KlAtU1dfN6UC:
@@ -22,11 +22,11 @@ papers:
     title: Controllable Video Captioning with an Exemplar Sentence
     year: '2020'
   tvZgJYgAAAAJ:UebtZRa9Y70C:
-    citations: 409
+    citations: 411
     title: 'Advancing image understanding in poor visibility environments: A collective benchmark study'
     year: '2020'
   tvZgJYgAAAAJ:YsMSGLbcyi4C:
-    citations: 84
+    citations: 85
     title: Weakly-supervised multi-level attentional reconstruction network for grounding textual queries in videos
     year: '2020'
   tvZgJYgAAAAJ:_FxGoFyzp5QC:
@@ -46,18 +46,18 @@ papers:
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2020'
   tvZgJYgAAAAJ:qjMakFHDy7sC:
-    citations: 331
+    citations: 332
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2019'
   tvZgJYgAAAAJ:roLk4NBRz8UC:
-    citations: 107
+    citations: 109
     title: Recurrent Exposure Generation for Low-Light Face Detection
     year: '2020'
   tvZgJYgAAAAJ:u-x6o8ySG0sC:
-    citations: 106
+    citations: 107
     title: 'Beyond object recognition: Visual sentiment analysis with deep coupled adjective and noun neural networks.'
     year: '2016'
   tvZgJYgAAAAJ:u5HHmVD_uO8C:
-    citations: 301
+    citations: 302
     title: Bidirectional attentive fusion with context gating for dense video captioning
     year: '2018'
