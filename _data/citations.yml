@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-29'
 papers:
   tvZgJYgAAAAJ:0EnyYjriUFMC:
     citations: 61
     title: 'Beyond monocular deraining: Stereo image deraining via semantic understanding'
     year: '2020'
   tvZgJYgAAAAJ:2osOgNQ5qMEC:
-    citations: 236
+    citations: 238
     title: Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction
     year: '2019'
   tvZgJYgAAAAJ:9yKSN-GCB0IC:
-    citations: 251
+    citations: 250
     title: Controllable video captioning with pos sequence guidance based on gated fusion network
     year: '2019'
   tvZgJYgAAAAJ:KlAtU1dfN6UC:
-    citations: 13
+    citations: 12
     title: 'MARN: multi-level attentional reconstruction networks for weakly supervised video temporal grounding'
     year: '2023'
   tvZgJYgAAAAJ:Se3iqnhoufwC:
@@ -22,15 +22,15 @@ papers:
     title: Controllable Video Captioning with an Exemplar Sentence
     year: '2020'
   tvZgJYgAAAAJ:UebtZRa9Y70C:
-    citations: 424
+    citations: 431
     title: 'Advancing image understanding in poor visibility environments: A collective benchmark study'
     year: '2020'
   tvZgJYgAAAAJ:YsMSGLbcyi4C:
-    citations: 85
+    citations: 86
     title: Weakly-supervised multi-level attentional reconstruction network for grounding textual queries in videos
     year: '2020'
   tvZgJYgAAAAJ:_FxGoFyzp5QC:
-    citations: 31
+    citations: 32
     title: Deep bilateral retinex for low-light image enhancement
     year: '2020'
   tvZgJYgAAAAJ:d1gkVwhDpl0C:
@@ -46,11 +46,11 @@ papers:
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2020'
   tvZgJYgAAAAJ:qjMakFHDy7sC:
-    citations: 338
+    citations: 341
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2019'
   tvZgJYgAAAAJ:roLk4NBRz8UC:
-    citations: 110
+    citations: 111
     title: Recurrent Exposure Generation for Low-Light Face Detection
     year: '2020'
   tvZgJYgAAAAJ:u-x6o8ySG0sC:
@@ -58,6 +58,6 @@ papers:
     title: 'Beyond object recognition: Visual sentiment analysis with deep coupled adjective and noun neural networks.'
     year: '2016'
   tvZgJYgAAAAJ:u5HHmVD_uO8C:
-    citations: 306
+    citations: 307
     title: Bidirectional attentive fusion with context gating for dense video captioning
     year: '2018'
