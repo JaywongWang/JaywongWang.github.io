@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color: red">**Good News!**</span> Our developed game livestreaming service rank 1st among all cloud service suppliers for Douyin (Chinese-version Tictok), with respect to picture clarity and quality, showcasing the leading advantage of our developed real-time generative enhancement and super-resolution algorithms.
+<strong style="color: red"><em>Good News!</em></strong> Our developed game livestreaming service rank 1st among all cloud service suppliers for Douyin (Chinese-version Tictok), with respect to picture clarity and quality, showcasing the leading advantage of our developed real-time generative enhancement and super-resolution algorithms.
