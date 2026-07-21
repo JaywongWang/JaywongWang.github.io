@@ -39,7 +39,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-multimedia-search-and-mining-microsoft-research-asia-as-a-research-intern-under-the-supervision-of-jianlong-fu-and-tao-mei-my-research-interest-includes-visual-sentiment-analysis-and-finegrained-image-clasfication",
+            },},{id: "news-i-joined-multimedia-search-and-mining-microsoft-research-asia-as-a-research-intern-under-the-supervision-of-jianlong-fu-and-tao-mei-my-research-interest-includes-visual-sentiment-analysis-and-finegrained-image-classification",
           title: 'I joined Multimedia Search and Mining, Microsoft Research Asia, as a research intern...',
           description: "",
           section: "News",},{id: "news-i-joined-tencent-ai-lab-computer-vision-group-as-a-research-intern-under-the-supervision-of-lin-ma-my-research-interest-includes-video-captioning-and-video-grounding",
