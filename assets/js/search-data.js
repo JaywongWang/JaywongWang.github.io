@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-tencent-cloud-as-a-senior-algorithm-engineer-focusing-on-real-world-super-resolution-and-restoration-we-develop-impactive-and-cutting-edge-media-processing-algorithms-and-services-to-serve-hundreds-of-our-customers",
           title: 'I joined Tencent Cloud as a senior algorithm engineer focusing on real-world super...',
           description: "",
-          section: "News",},{id: "news-good-news-our-developed-game-livestreaming-service-ranks-1st-among-all-cloud-service-suppliers-for-douyin-chinese-version-tictok-with-respect-to-picture-clarity-and-quality-showcasing-the-leading-advantage-of-our-developed-real-time-generative-enhancement-and-super-resolution-algorithms",
+          section: "News",},{id: "news-good-news-our-developed-game-livestreaming-service-ranks-1st-among-all-cloud-service-suppliers-for-douyin-抖音直播-chinese-version-tictok-with-respect-to-picture-clarity-and-quality-showcasing-the-leading-advantage-of-our-developed-real-time-generative-enhancement-and-super-resolution-algorithms",
           title: 'Good News! Our developed game livestreaming service ranks 1st among all cloud service...',
           description: "",
           section: "News",},{id: "projects-project-1",
