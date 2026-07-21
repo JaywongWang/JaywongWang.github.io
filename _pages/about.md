@@ -26,7 +26,7 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am committed to delivering the best media content to billions of people, with cutting-edge content understanding and enhancement technology.
+I am committed to delivering the best media content to billions of people, with cutting-edge multi-media understanding and enhancement technology.
 
 I am currently a senior algorithm engineer at [Tencent Cloud](https://cloud.tencent.com/product/mps), working on <em>**real-world video restoration and super-resolution**</em>, in both livestreaming and offline video scenarios. Our developed media processing services have been widely recognized and applied to many well-known enterprises and products, including but not limited to Douyin(抖音直播), Shipinhao(视频号), Xiaohongshu(小红书), Haiyi(海艺).
 
