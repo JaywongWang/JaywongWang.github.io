@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Huya Inc.](https://ir.huya.com/index.php) Incorporation, and focus on <em>**livestreaming restoration and super-resolution**</em>, <em>**multi-media quality assessment**</em>, <em>**multi-jmodal understanding**</em>.
+I joined [Huya Inc.](https://ir.huya.com/index.php) Incorporation, and focus on <em>livestreaming restoration and super-resolution</em>, <em>video quality assessment</em>, <em>multi-modal understanding</em>.

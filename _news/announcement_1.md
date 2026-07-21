@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Multimedia Search and Mining, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/), as a research intern under the supervision of [Jianlong Fu](https://scholar.google.com/citations?user=-WqSwu8AAAAJ) and [Tao Mei](https://taomei.me/). My research interest includes <em>**visual sentiment analysis**</em>, and <em>**finegrained image clasfication**</em>.
+I joined Multimedia Search and Mining, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/), as a research intern under the supervision of [Jianlong Fu](https://scholar.google.com/citations?user=-WqSwu8AAAAJ) and [Tao Mei](https://taomei.me/). My research interest includes <em>visual sentiment analysis</em>, and <em>finegrained image clasfication</em>.
