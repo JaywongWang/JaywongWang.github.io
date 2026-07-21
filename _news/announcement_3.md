@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-12-01 09:00:00-0000
+date: 2018-07-17 09:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I joined **Bigo** as a staff algorithm engineer. I focus on media understanding and recommendation.
+I joined **Tencent AI Lab** as a senior researcher. My research interest includes vision-and-language, action analysis.

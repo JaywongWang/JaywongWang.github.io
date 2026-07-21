@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2017-07-25 09:00:00-0000
+date: 2021-06-11 09:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I joined **Tencent AI Lab**, Computer Vision Group, as a research intern under the supervision of [Lin Ma](https://forestlinma.com/).
+I joined **Huya** Incorporation, and focus on livestreaming super-resolution/enhancement, multi-media quality assessment, multi-media understanding.
