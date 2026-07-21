@@ -39,8 +39,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-multimedia-search-and-mining-microsoft-research-asia-msra-as-a-research-intern-under-the-supervision-of-jianlong-fu-and-tao-mei",
-          title: 'I joined Multimedia Search and Mining, Microsoft Research Asia (MSRA), as a research...',
+            },},{id: "news-i-joined-multimedia-search-and-mining-microsoft-research-asia-as-a-research-intern-under-the-supervision-of-jianlong-fu-and-tao-mei",
+          title: 'I joined Multimedia Search and Mining, Microsoft Research Asia, as a research intern...',
           description: "",
           section: "News",},{id: "news-i-joined-tencent-ai-lab-computer-vision-group-as-a-research-intern-under-the-supervision-of-lin-ma",
           title: 'I joined Tencent AI Lab, Computer Vision Group, as a research intern under...',
@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-bigo-as-a-staff-algorithm-engineer-we-developed-ai-algorithms-to-improve-media-content-understanding-and-recommendation-mainly-shorts-and-livestreaming",
           title: 'I joined Bigo as a staff algorithm engineer. We developed AI algorithms to...',
           description: "",
-          section: "News",},{id: "news-i-joined-huya-incorporation-and-focus-on-livestreaming-super-resolution-enhancement-multi-media-quality-assessment-multi-media-understanding",
-          title: 'I joined Huya Incorporation, and focus on livestreaming super-resolution/enhancement, multi-media quality assessment, multi-media...',
+          section: "News",},{id: "news-i-joined-huya-inc-incorporation-and-focus-on-livestreaming-super-resolution-enhancement-multi-media-quality-assessment-multi-media-understanding",
+          title: 'I joined Huya Inc. Incorporation, and focus on livestreaming super-resolution/enhancement, multi-media quality assessment,...',
           description: "",
           section: "News",},{id: "news-i-joined-tencent-cloud-as-a-senior-algorithm-engineer-focusing-on-real-world-super-resolution-and-restoration-we-develop-impactive-and-cutting-edge-media-processing-algorithms-and-services-to-serve-hundreds-of-our-customers",
           title: 'I joined Tencent Cloud as a senior algorithm engineer focusing on real-world super...',
