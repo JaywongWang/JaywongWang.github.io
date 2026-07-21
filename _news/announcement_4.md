@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined **Bigo** as a staff algorithm engineer. We developed AI algorithms to improve media content understanding and recommendation (mainly shorts and livestreaming).
+I joined [Bigo](https://www.bigo.tv/) as a staff algorithm engineer. We developed AI algorithms to improve media content understanding and recommendation (mainly shorts and livestreaming).
