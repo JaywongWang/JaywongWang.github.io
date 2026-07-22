@@ -20,6 +20,11 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 15 # leave blank to include all the news in the `_news` folder
 
+awards:
+  enabled: true # includes a list of award items on the about page
+  scrollable: true # adds a vertical scroll bar if there are more than 3 award items
+  limit: 15 # leave blank to include all the awards in the `_awards` folder
+
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items

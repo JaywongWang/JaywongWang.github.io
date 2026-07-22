@@ -162,6 +162,10 @@ collections:
     defaults:
       layout: post
     output: true
+  awards:
+    defaults:
+      layout: post
+    output: true
   projects:
     output: true
   teachings:

@@ -70,6 +70,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Awards -->
+    {% if page.awards and page.awards.enabled %}
+      <h2>
+        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">awards</a>
+      </h2>
+      {% include awards.liquid limit=true %}
+    {% endif %}
+
     <!-- Posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
