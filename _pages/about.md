@@ -33,7 +33,7 @@ latest_posts:
 
 I am committed to delivering the best media content to billions of people, with cutting-edge multi-media understanding and enhancement technology.
 
-I am currently a senior algorithm engineer at [Tencent Cloud](https://cloud.tencent.com/product/mps), working on <em>**real-world video restoration and super-resolution**</em>, in both livestreaming and offline video scenarios. Our developed media processing services have been widely recognized and applied to many well-known enterprises and products, including but not limited to Douyin(抖音直播), Shipinhao(视频号), Xiaohongshu(小红书), Haiyi(海艺).
+I am currently a senior algorithm engineer at [Tencent Cloud](https://cloud.tencent.com/product/mps), working on <em>**real-world video restoration and super-resolution**</em>, in both livestreaming and offline video scenarios. Our developed media processing services have been widely recognized and applied to many well-known enterprises and products, including but not limited to Douyin Live(抖音直播), Shipinhao(视频号), Rednote(小红书), SeaArt(海艺).
 
 I was previously a senior algorithm engineer at [Huya Inc.](https://ir.huya.com/index.php) (2021 ~ 2025), [Bigo](https://www.bigo.tv/) (2021) and a senior researcher at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/) (2018 ~ 2021). 
 
