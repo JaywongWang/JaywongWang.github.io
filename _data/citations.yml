@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-24'
 papers:
   tvZgJYgAAAAJ:0EnyYjriUFMC:
     citations: 61
@@ -22,11 +22,11 @@ papers:
     title: Controllable Video Captioning with an Exemplar Sentence
     year: '2020'
   tvZgJYgAAAAJ:UebtZRa9Y70C:
-    citations: 430
+    citations: 434
     title: 'Advancing image understanding in poor visibility environments: A collective benchmark study'
     year: '2020'
   tvZgJYgAAAAJ:YsMSGLbcyi4C:
-    citations: 86
+    citations: 87
     title: Weakly-supervised multi-level attentional reconstruction network for grounding textual queries in videos
     year: '2020'
   tvZgJYgAAAAJ:_FxGoFyzp5QC:
@@ -46,15 +46,15 @@ papers:
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2020'
   tvZgJYgAAAAJ:qjMakFHDy7sC:
-    citations: 343
+    citations: 344
     title: Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos
     year: '2019'
   tvZgJYgAAAAJ:roLk4NBRz8UC:
-    citations: 111
+    citations: 113
     title: Recurrent Exposure Generation for Low-Light Face Detection
     year: '2020'
   tvZgJYgAAAAJ:u-x6o8ySG0sC:
-    citations: 107
+    citations: 108
     title: 'Beyond object recognition: Visual sentiment analysis with deep coupled adjective and noun neural networks.'
     year: '2016'
   tvZgJYgAAAAJ:u5HHmVD_uO8C:
