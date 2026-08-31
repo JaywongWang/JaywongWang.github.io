@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-31'
 papers:
   tvZgJYgAAAAJ:0EnyYjriUFMC:
     citations: 62
@@ -22,7 +22,7 @@ papers:
     title: Controllable Video Captioning with an Exemplar Sentence
     year: '2020'
   tvZgJYgAAAAJ:UebtZRa9Y70C:
-    citations: 443
+    citations: 444
     title: 'Advancing image understanding in poor visibility environments: A collective benchmark study'
     year: '2020'
   tvZgJYgAAAAJ:YsMSGLbcyi4C:
@@ -58,6 +58,6 @@ papers:
     title: 'Beyond object recognition: Visual sentiment analysis with deep coupled adjective and noun neural networks.'
     year: '2016'
   tvZgJYgAAAAJ:u5HHmVD_uO8C:
-    citations: 314
+    citations: 315
     title: Bidirectional attentive fusion with context gating for dense video captioning
     year: '2018'
